@@ -5,4 +5,3 @@
 <img src="{https://www.linkedin.com/in/saargol-purmohamad/}"></img>
 
 
-<img>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saargol&theme=dark)](https://git.io/streak-stats)</img>
